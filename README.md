@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a third-year student at NIT Hamirpur, pursuing
 ## About Me
 
 - 🔭 I’m currently working on web development and blockchain projects.
-- 🌱 I’m currently learning about blockchain technology, full-stack development, and advanced DSA.
 - 👯 I’m looking to collaborate on open-source projects related to web development and blockchain.
 - 💬 Ask me about JavaScript, React, Node.js, and blockchain.
 - 📫 How to reach me: [himanshusugha@gmail.com](mailto:himanshusugha@gmail.com)
@@ -20,13 +19,10 @@ Welcome to my GitHub profile! I'm a third-year student at NIT Hamirpur, pursuing
 - **Other Skills:** Full-stack development, Blockchain development
 
 
-## GitHub Stats
-
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu-sugha&show_icons=true&theme=radical)
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/himanshu-sugha/)
-- [Twitter](https://twitter.com/himanshu_sugha)
+
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on a project.
