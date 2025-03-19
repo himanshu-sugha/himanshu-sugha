@@ -33,4 +33,3 @@ Welcome to my GitHub profile! I'm a third-year **B.Tech student at NIT Hamirpur*
 
 ---
 
-This version removes SonorousBattle from your current projects since it’s completed. Let me know if you need any further refinements! 🚀
