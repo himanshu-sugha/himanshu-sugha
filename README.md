@@ -10,6 +10,11 @@ Welcome to my GitHub profile! I'm a third-year **B.Tech student at NIT Hamirpur*
 - 💬 Ask me about **JavaScript, React, Node.js, Solidity, and blockchain development**.  
 - 📫 Reach me at: [himanshusugha@gmail.com](mailto:himanshusugha@gmail.com).  
 - ⚡ Fun fact: I love **hiking, exploring new places, and experimenting with AI-powered blockchain solutions**.  
+## 🏅 Notable Achievements  
+
+- 🏆 **Winner - Q4 2024 #BNBChainHackathon** – 2nd place for **SonorousBattle**, a blockchain-integrated Telegram bot for music battles, and Good Effort award for **A-MACI Key Manager**.  
+- 🥇 **Winner - BrandCrunch (BitsCrunch Hackathon)** – Developed **BrandCrunch**, an AI-powered NFT analytics platform.  
+- 🎖 **Winner - Stellarscape Explorer Hackathon** – Built a Web3 NFT marketplace as a solo participant.  
 
 ## 🛠 Skills  
 
@@ -19,11 +24,6 @@ Welcome to my GitHub profile! I'm a third-year **B.Tech student at NIT Hamirpur*
 - **Blockchain & Web3:** Ethereum, Starknet, ICP, Calimero, zk-SNARKs, DeFi, NFT analytics  
 - **Other Skills:** Full-stack development, Smart Contracts, AI integration in DeSci, Competitive Programming  
 
-## 🏅 Notable Achievements  
-
-- 🏆 **Winner - Q4 2024 #BNBChainHackathon** – 2nd place for **SonorousBattle**, a blockchain-integrated Telegram bot for music battles, and Good Effort award for **A-MACI Key Manager**.  
-- 🥇 **Winner - BrandCrunch (BitsCrunch Hackathon)** – Developed **BrandCrunch**, an AI-powered NFT analytics platform.  
-- 🎖 **Winner - Stellarscape Explorer Hackathon** – Built a Web3 NFT marketplace as a solo participant.  
 
 ## 🔗 Connect with Me  
 
