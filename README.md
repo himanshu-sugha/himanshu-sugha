@@ -1,28 +1,36 @@
-# Hi there, I'm Himanshu Sugha! 👋
+# Hi there, I'm Himanshu Sugha! 👋  
 
-Welcome to my GitHub profile! I'm a third-year student at NIT Hamirpur, pursuing a B.Tech in Mathematics and Computing. I have a keen interest in web development, data structures and algorithms (DSA), and Web3 development.
+Welcome to my GitHub profile! I'm a third-year **B.Tech student at NIT Hamirpur**, specializing in **Mathematics and Computing**. I have a strong passion for **web development, blockchain, AI/ML, and competitive programming**.  
 
-## About Me
+## 🚀 About Me  
 
-- 🔭 I’m currently working on web development and blockchain projects.
-- 👯 I’m looking to collaborate on open-source projects related to web development and blockchain.
-- 💬 Ask me about JavaScript, React, Node.js, and blockchain.
-- 📫 How to reach me: [himanshusugha@gmail.com](mailto:himanshusugha@gmail.com)
-- ⚡ Fun fact: I love hiking and exploring new places.
+- 🔭 Currently working on **AI-powered DeSci analytics tools** and innovative **Web3 projects**.  
+- 🏆 **Hackathon Winner** – Secured top prizes in multiple hackathons, including  **BNBChainHackathon**,**BitsCrunch Hackathon**, and **Stellarscape Explorer Hackathon**.  
+- 👯 Open to **collaborations** on Web3, AI, and decentralized applications (dApps).  
+- 💬 Ask me about **JavaScript, React, Node.js, Solidity, and blockchain development**.  
+- 📫 Reach me at: [himanshusugha@gmail.com](mailto:himanshusugha@gmail.com).  
+- ⚡ Fun fact: I love **hiking, exploring new places, and experimenting with AI-powered blockchain solutions**.  
 
-## Skills
+## 🛠 Skills  
 
-- **Programming Languages:** JavaScript, Python, C++
-- **Frameworks and Libraries:** React, Node.js, Express, Solidity
-- **Databases:** MongoDB, MySQL
-- **Tools and Platforms:** Git, Docker, Ethereum
-- **Other Skills:** Full-stack development, Blockchain development
+- **Programming Languages:** JavaScript, Python, C++, Solidity  
+- **Frameworks & Libraries:** React, Node.js, Express, Hardhat, Cairo  
+- **Databases:** MongoDB, MySQL  
+- **Blockchain & Web3:** Ethereum, Starknet, ICP, Calimero, zk-SNARKs, DeFi, NFT analytics  
+- **Other Skills:** Full-stack development, Smart Contracts, AI integration in DeSci, Competitive Programming  
+
+## 🏅 Notable Achievements  
+
+- 🏆 **Winner - Q4 2024 #BNBChainHackathon** – 2nd place for **SonorousBattle**, a blockchain-integrated Telegram bot for music battles, and Good Effort award for **A-MACI Key Manager**.  
+- 🥇 **Winner - BrandCrunch (BitsCrunch Hackathon)** – Developed **BrandCrunch**, an AI-powered NFT analytics platform.  
+- 🎖 **Winner - Stellarscape Explorer Hackathon** – Built a Web3 NFT marketplace as a solo participant.  
+
+## 🔗 Connect with Me  
+
+- **LinkedIn:** [himanshu-sugha](https://www.linkedin.com/in/himanshu-sugha/)  
+- **GitHub:** [himanshu-sugha](https://github.com/himanshu-sugha)  
 
 
+---
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/himanshu-sugha/)
-
-
-Thank you for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on a project.
+This version removes SonorousBattle from your current projects since it’s completed. Let me know if you need any further refinements! 🚀
