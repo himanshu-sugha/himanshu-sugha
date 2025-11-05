@@ -1,35 +1,57 @@
 # Hi there, I'm Himanshu Sugha! 👋  
 
-Welcome to my GitHub profile! I'm a third-year **B.Tech student at NIT Hamirpur**, specializing in **Mathematics and Computing**. I have a strong passion for **web development, blockchain, AI/ML, and competitive programming**.  
+Welcome to my GitHub! I'm a final-year **B.Tech student at NIT Hamirpur**, majoring in **Mathematics and Computing**.  
+I’m passionate about **software development, full-stack web engineering**, and exploring the intersection of **AI and blockchain**.  
+
+---
 
 ## 🚀 About Me  
 
-- 🔭 Currently working on **AI-powered DeSci analytics tools** and innovative **Web3 projects**.  
-- 🏆 **Hackathon Winner** – Secured top prizes in multiple hackathons, including  **BNBChainHackathon**,**BitsCrunch Hackathon**, and **Stellarscape Explorer Hackathon**.  
-- 👯 Open to **collaborations** on Web3, AI, and decentralized applications (dApps).  
-- 💬 Ask me about **JavaScript, React, Node.js, Solidity, and blockchain development**.  
-- 📫 Reach me at: [himanshusugha@gmail.com](mailto:himanshusugha@gmail.com).  
-- ⚡ Fun fact: I love **hiking, exploring new places, and experimenting with AI-powered blockchain solutions**.  
+
+- 🧠 Strong background in **JavaScript ecosystems**, **backend architecture**, and **blockchain integrations**.  
+- 🏆 **Multi-hackathon winner**, delivering production-grade projects under real-world constraints.  
+- 👯 Open to **collaborations** in **web development**, **open-source**, and **Web3 innovation**.  
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Solidity, or full-stack system design**.  
+- 📫 Reach me at: [himanshusugha@gmail.com](mailto:himanshusugha@gmail.com)  
+ 
+
+---
+
 ## 🏅 Notable Achievements  
 
-- 🏆 **Winner - Q4 2024 #BNBChainHackathon** – 2nd place for **SonorousBattle**, a blockchain-integrated Telegram bot for music battles, and Good Effort award for **A-MACI Key Manager**.  
-- 🥇 **Winner - BrandCrunch (BitsCrunch Hackathon)** – Developed **BrandCrunch**, an AI-powered NFT analytics platform.  
-- 🎖 **Winner - Stellarscape Explorer Hackathon** – Built a Web3 NFT marketplace as a solo participant.  
+- 🥈 **BNB Chain Hackathon (Q4 2024)** – 2nd place for **SonorousBattle**, a blockchain-based Telegram music battle bot, and “Good Effort” award for **A-MACI Key Manager**.  
+- 🥇 **BitsCrunch Hackathon (BrandCrunch)** – Built **BrandCrunch**, an AI-powered NFT analytics platform.  
+- 🎖 **Stellarscape Explorer Hackathon** – Created a **Web3 NFT marketplace** as a solo developer.  
 
-## 🛠 Skills  
+---
 
-- **Programming Languages:** JavaScript, Python, C++, Solidity  
-- **Frameworks & Libraries:** React, Node.js, Express, Hardhat, Cairo  
-- **Databases:** MongoDB, MySQL  
-- **Blockchain & Web3:** Ethereum, Starknet, ICP, Calimero, zk-SNARKs, DeFi, NFT analytics  
-- **Other Skills:** Full-stack development, Smart Contracts, AI integration in DeSci, Competitive Programming  
+## 🛠️ Tech Stack  
 
+**Languages:**  
+JavaScript , Python, C++  
 
-## 🔗 Connect with Me  
+**Frontend:**  
+React, Next.js, HTML5, CSS3, TailwindCSS  
+
+**Backend:**  
+Node.js, Express.js, RESTful APIs  
+
+**Databases:**  
+MongoDB, MySQL  
+
+**Blockchain:**  
+Solidity, Web3.js, Ethers.js  
+
+**Tools & Platforms:**  
+Git, Docker, Postman, Firebase  
+
+---
+
+## 🌐 Connect with Me  
 
 - **LinkedIn:** [himanshu-sugha](https://www.linkedin.com/in/himanshu-sugha/)  
 - **GitHub:** [himanshu-sugha](https://github.com/himanshu-sugha)  
 
-
 ---
 
+⭐️ *“Code. Create. Collaborate.”*  
